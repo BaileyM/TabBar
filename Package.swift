@@ -6,7 +6,7 @@ let package = Package(
     name: "TabBar",
     platforms: [
         .iOS(.v13),
-        .macOS(.v10_12),
+        .macOS(.v10_15),
     ],
     products: [
         .library(
